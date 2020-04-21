@@ -1,0 +1,64 @@
+{
+  "name": "FlutterIcons",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "1gf923f9wvaezxmfon515dglxa3drf0e",
+      "css": "plus",
+      "code": 59393,
+      "src": "typicons"
+    },
+    {
+      "uid": "bczb7qup4axmc490xmuuv8qdhcnbgeyf",
+      "css": "user",
+      "code": 59394,
+      "src": "typicons"
+    },
+    {
+      "uid": "e903698d494785d5e9328f0645da81bb",
+      "css": "th-large",
+      "code": 59395,
+      "src": "typicons"
+    },
+    {
+      "uid": "6zhrgcf3co77hnljttd3b2mrc8z5fiq5",
+      "css": "right-open",
+      "code": 59392,
+      "src": "typicons"
+    },
+    {
+      "uid": "3a230e539a4f3b904debd04c6c155034",
+      "css": "help",
+      "code": 59397,
+      "src": "entypo"
+    },
+    {
+      "uid": "221947bea81f49a11b863c686a7bd235",
+      "css": "search",
+      "code": 59399,
+      "src": "websymbols"
+    },
+    {
+      "uid": "7c31fffa1d140a037558f328c8c1a54d",
+      "css": "notifications",
+      "code": 59400,
+      "src": "material"
+    },
+    {
+      "uid": "f886d2d6cc8cb1b1117e26819a7bc282",
+      "css": "article-alt",
+      "code": 59396,
+      "src": "iconic"
+    },
+    {
+      "uid": "w3nzesrlbezu6f30q7ytyq919p6gdlb6",
+      "css": "home",
+      "code": 59398,
+      "src": "typicons"
+    }
+  ]
+}
